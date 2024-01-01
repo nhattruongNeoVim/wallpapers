@@ -3,7 +3,7 @@ name: Update README with Images
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   update-readme:
@@ -20,8 +20,8 @@ jobs:
           for file in wallpapers/*.{jpg,png}; do
             echo "![Wallpaper]($file)\n" >> README.md
           done
-          git add README.md
-          git commit -m "Update README with latest wallpapers" || true
-          git push
+      - name: Push README
+        user: mikeal/publish-to-github-action@master
         env:
-          GITHUB_TOKEN: ${{ secrets.WALL}}
+          GITHUB_TOKEN: ${{ secrets.WALL }}
+          BRANCH_NAME: ''
