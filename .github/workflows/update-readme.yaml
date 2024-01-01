@@ -22,7 +22,7 @@ jobs:
           echo '## List Wallpapers\n' > README.md
           for file in wallpapers/*.{jpg,png}; do
             filename=$(basename "$file")
-            echo "### filename" >> README.md
+            echo "### $filename" >> README.md
             echo "![]($file)" >> README.md
           done
           git add README.md
