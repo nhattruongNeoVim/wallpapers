@@ -27,5 +27,5 @@ jobs:
           git commit -m "Update README with latest wallpapers" || true
           git push origin master 
 
-      env:
-        GITHUB_TOKEN: ${{ secrets.WALL }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.WALL }}
