@@ -19,7 +19,9 @@ jobs:
 
       - name: Update README
         run: |
-          echo '## List Wallpapers\n' > README.md
+          echo "## List Wallpapers" > README.md
+          echo "> [!Important]" >> README.md
+          echo "> These wallpapers are not mine. All credits goes to those who have created / photographed these nice wallpapers" >> README.md
           for file in wallpapers/*.{jpg,png}; do
             filename=$(basename "$file")
             echo "### $filename" >> README.md
