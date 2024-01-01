@@ -10,8 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
-      
+        uses: actions/checkout@v4
+
       - name: Set up Git
         run: |
           git config --global user.email "nhattruong13112000@gmail.com"
@@ -29,7 +29,7 @@ jobs:
           done
           git add README.md
           git commit -m "Update README with latest wallpapers" || true
-          git push origin master 
+          git push origin master
 
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
