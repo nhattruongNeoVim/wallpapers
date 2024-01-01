@@ -20,8 +20,8 @@ jobs:
           for file in wallpapers/*.{jpg,png}; do
             echo "![Wallpaper]($file)\n" >> README.md
           done
-      - name: Push README
-        uses: mikeal/publish-to-github-action@master
+          git add README.md
+          git commit -m "Update README with latest wallpapers" || true
+          git push origin master
         env:
           GITHUB_TOKEN: ${{ secrets.WALL }}
-          BRANCH_NAME: ''
