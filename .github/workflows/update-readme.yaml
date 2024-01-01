@@ -12,11 +12,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
       
-      # - name: Set up Git
-      #   run: |
-      #     git config --global user.email "nhattruong13112000@gmail.com"
-      #     git config --global user.name "nhattruongNeoVim"
-      #
+      - name: Set up Git
+        run: |
+          git config --global user.email "nhattruong13112000@gmail.com"
+          git config --global user.name "nhattruongNeoVim"
+
       - name: Update README
         run: |
           echo '## List Wallpapers\n' > README.md
