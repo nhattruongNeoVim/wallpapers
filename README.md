@@ -1,12 +1,12 @@
-## List Wallpapers\n
+## List Wallpapers
+> [!Important]
+> These wallpapers are not mine. All credits goes to those who have created / photographed these nice wallpapers
 ### anime-night.jpg
 ![](wallpapers/anime-night.jpg)
 ### background.jpg
 ![](wallpapers/background.jpg)
 ### cat_lofi_cafe.jpg
 ![](wallpapers/cat_lofi_cafe.jpg)
-### crater.jpg
-![](wallpapers/crater.jpg)
 ### hong-kong.jpg
 ![](wallpapers/hong-kong.jpg)
 ### patterns.jpg
@@ -15,8 +15,6 @@
 ![](wallpapers/staircase.jpg)
 ### wall.jpg
 ![](wallpapers/wall.jpg)
-### Screenshot_2023-12-18-16-55-34_30597.png
-![](wallpapers/Screenshot_2023-12-18-16-55-34_30597.png)
 ### anime-girl-abyss.png
 ![](wallpapers/anime-girl-abyss.png)
 ### anime-girl-pink.png
