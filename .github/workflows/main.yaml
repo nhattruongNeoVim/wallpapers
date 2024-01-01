@@ -1,0 +1,27 @@
+name: Update README with Images
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      
+      - name: Update README
+        run: |
+          git config --global user.email "nhattruong13112000@gmail.com"
+          git config --global user.name "nhattruongNeoVim"
+          echo '## Latest Wallpapers\n' > README.md
+          for file in wallpapers/*.{jpg,png}; do
+            echo "![Wallpaper]($file)\n" >> README.md
+          done
+          git add README.md
+          git commit -m "Update README with latest wallpapers" || true
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.WALL}}
