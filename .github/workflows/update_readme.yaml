@@ -29,7 +29,6 @@ jobs:
           done
           git add README.md
           git commit -m "Update README with latest wallpapers" || true
-          git pull origin master  # Thêm lệnh git pull ở đây để cập nhật local
           git push origin master 
 
         env:

@@ -1,0 +1,24 @@
+name: Auto Sync with Repository
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  sync-with-repo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Git
+        run: |
+          git config --global user.email "nhattruong13112000@gmail.com"
+          git config --global user.name "nhattruongNeoVim"
+
+      - name: Fetch latest changes from upstream
+        run: git fetch
+
+      - name: Reset local branch to match upstream
+        run: git reset --hard origin/master
