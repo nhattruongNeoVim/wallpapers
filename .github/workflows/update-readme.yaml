@@ -21,7 +21,7 @@ jobs:
             echo "![Wallpaper]($file)\n" >> README.md
           done
       - name: Push README
-        user: mikeal/publish-to-github-action@master
+        uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.WALL }}
           BRANCH_NAME: ''
