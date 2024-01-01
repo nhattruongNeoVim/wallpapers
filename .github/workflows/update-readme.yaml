@@ -12,20 +12,22 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
       
-      - name: Set up Git
-        run: |
-          git config --global user.email "nhattruong13112000@gmail.com"
-          git config --global user.name "nhattruongNeoVim"
-
+      # - name: Set up Git
+      #   run: |
+      #     git config --global user.email "nhattruong13112000@gmail.com"
+      #     git config --global user.name "nhattruongNeoVim"
+      #
       - name: Update README
         run: |
-          echo '## Latest Wallpapers\n' > README.md
+          echo '## List Wallpapers\n' > README.md
           for file in wallpapers/*.{jpg,png}; do
-            echo "![Wallpaper]($file)\n" >> README.md
+            filename=$(basename "$file")
+            echo "### filename" >> README.md
+            echo "![]($file)" >> README.md
           done
           git add README.md
           git commit -m "Update README with latest wallpapers" || true
           git push origin master 
 
         env:
-          GITHUB_TOKEN: ${{ secrets.WALL }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
