@@ -21,4 +21,4 @@ jobs:
         run: git fetch
 
       - name: Reset local branch to match upstream
-        run: git reset --hard origin/master
+        run: git reset --hard origin/master 
