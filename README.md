@@ -9,6 +9,8 @@
 ![](wallpapers/anime-girl-pink.png)
 ### anime-lake.png
 ![](wallpapers/anime-lake.png)
+### anime-lanscape.png
+![](wallpapers/anime-lanscape.png)
 ### anime-night.jpg
 ![](wallpapers/anime-night.jpg)
 ### anime-room.png
@@ -25,12 +27,16 @@
 ![](wallpapers/cat_lofi_cafe.jpg)
 ### city-rain.png
 ![](wallpapers/city-rain.png)
+### courtside-sunset.png
+![](wallpapers/courtside-sunset.png)
 ### cute_cat.png
 ![](wallpapers/cute_cat.png)
 ### cyberpunk-lofi.png
 ![](wallpapers/cyberpunk-lofi.png)
 ### evangelion.png
 ![](wallpapers/evangelion.png)
+### fantasy-landscape.png
+![](wallpapers/fantasy-landscape.png)
 ### hong-kong.jpg
 ![](wallpapers/hong-kong.jpg)
 ### lady.png
@@ -59,3 +65,4 @@
 ![](wallpapers/tokyo_pink.png)
 ### wall.jpg
 ![](wallpapers/wall.jpg)
+# (￣ y▽ ￣)╭ Ohohoho.....
