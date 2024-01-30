@@ -41,8 +41,8 @@
 ![](wallpapers/fantasy-landscape.png)
 ### hong-kong.jpg
 ![](wallpapers/hong-kong.jpg)
-### lady.png
-![](wallpapers/lady.png)
+### lady_light.png
+![](wallpapers/lady_light.png)
 ### lofi_cat.png
 ![](wallpapers/lofi_cat.png)
 ### lowpoly_street.png
