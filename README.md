@@ -19,6 +19,8 @@
 ![](wallpapers/arcade_decay_red.png)
 ### arch-chan_to.png
 ![](wallpapers/arch-chan_to.png)
+### b-843.jpg
+![](wallpapers/b-843.jpg)
 ### background.jpg
 ![](wallpapers/background.jpg)
 ### bonsai-plant.png
