@@ -67,4 +67,6 @@
 ![](wallpapers/tokyo_pink.png)
 ### wall.jpg
 ![](wallpapers/wall.jpg)
-# (￣ y▽ ￣)╭ Ohohoho.....
+> **Congratulations!** at this poit you have all the wallpapers that I've collected
+> 
+> # (￣ y▽ ￣)╭ Ohohoho.....
