@@ -27,7 +27,9 @@ jobs:
             echo "### $filename" >> README.md
             echo "![]($file)" >> README.md
           done
-          echo "# (￣ y▽ ￣)╭ Ohohoho....." >> README.md
+          echo "> **Congratulations!** at this poit you have all the wallpapers that I've collected" README.md
+          echo ">" README.md
+          echo "> # (￣ y▽ ￣)╭ Ohohoho....." >> README.md
           git add README.md
           git commit -m "Update README with latest wallpapers" || true
           git push origin master
