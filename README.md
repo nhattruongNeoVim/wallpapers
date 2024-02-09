@@ -7,6 +7,8 @@
 ![](wallpapers/anime-girl-neon.png)
 ### anime-girl-pink.png
 ![](wallpapers/anime-girl-pink.png)
+### anime-kanji.jpg
+![](wallpapers/anime-kanji.jpg)
 ### anime-lake.png
 ![](wallpapers/anime-lake.png)
 ### anime-lanscape.png
@@ -15,58 +17,56 @@
 ![](wallpapers/anime-night.jpg)
 ### anime-room.png
 ![](wallpapers/anime-room.png)
-### arcade_decay_red.png
-![](wallpapers/arcade_decay_red.png)
-### arch-chan_to.png
-![](wallpapers/arch-chan_to.png)
-### background.jpg
-![](wallpapers/background.jpg)
+### arch-chan.png
+![](wallpapers/arch-chan.png)
+### art-girl1.jpg
+![](wallpapers/art-girl1.jpg)
+### art-girl2.jpg
+![](wallpapers/art-girl2.jpg)
+### astronaut.jpg
+![](wallpapers/astronaut.jpg)
 ### bonsai-plant.png
 ![](wallpapers/bonsai-plant.png)
-### cat_lofi_cafe.jpg
-![](wallpapers/cat_lofi_cafe.jpg)
+### city-pixel.jpg
+![](wallpapers/city-pixel.jpg)
 ### city-rain.png
 ![](wallpapers/city-rain.png)
 ### courtside-sunset.png
 ![](wallpapers/courtside-sunset.png)
-### cute_cat.png
-![](wallpapers/cute_cat.png)
+### cute-cat.png
+![](wallpapers/cute-cat.png)
 ### cyberpunk-lofi.png
 ![](wallpapers/cyberpunk-lofi.png)
-### evangelion.png
-![](wallpapers/evangelion.png)
 ### fantasy-landscape.png
 ![](wallpapers/fantasy-landscape.png)
-### hong-kong.jpg
-![](wallpapers/hong-kong.jpg)
-### lady_dark.jpg
-![](wallpapers/lady_dark.jpg)
-### lady_light.png
-![](wallpapers/lady_light.png)
-### lofi_cat.png
-![](wallpapers/lofi_cat.png)
-### lowpoly_street.png
-![](wallpapers/lowpoly_street.png)
-### mecha-nostalgia.png
-![](wallpapers/mecha-nostalgia.png)
-### minimal_squares.png
-![](wallpapers/minimal_squares.png)
-### night_city.png
-![](wallpapers/night_city.png)
+### lady-dark.jpg
+![](wallpapers/lady-dark.jpg)
+### lady-light.png
+![](wallpapers/lady-light.png)
+### lofi-cat.png
+![](wallpapers/lofi-cat.png)
+### lowpoly-street.png
+![](wallpapers/lowpoly-street.png)
+### mario1.jpg
+![](wallpapers/mario1.jpg)
+### mario2.png
+![](wallpapers/mario2.png)
+### minimal-squares.jpg
+![](wallpapers/minimal-squares.jpg)
+### night-city.png
+![](wallpapers/night-city.png)
 ### pastel-window.png
 ![](wallpapers/pastel-window.png)
 ### patterns.jpg
 ![](wallpapers/patterns.jpg)
-### relaxed_mario.png
-![](wallpapers/relaxed_mario.png)
 ### staircase.jpg
 ![](wallpapers/staircase.jpg)
+### sunset.jpg
+![](wallpapers/sunset.jpg)
 ### techno-geek.png
 ![](wallpapers/techno-geek.png)
-### tokyo_pink.png
-![](wallpapers/tokyo_pink.png)
-### wall.jpg
-![](wallpapers/wall.jpg)
+### tokyo-pink.png
+![](wallpapers/tokyo-pink.png)
 > **Congratulations!** at this poit you have all the wallpapers that I've collected
 > 
 > # (￣ y▽ ￣)╭ Ohohoho.....
