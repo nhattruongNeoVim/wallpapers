@@ -37,6 +37,8 @@
 ![](wallpapers/cute-cat.png)
 ### cyberpunk-lofi.png
 ![](wallpapers/cyberpunk-lofi.png)
+### dark-nature.png
+![](wallpapers/dark-nature.png)
 ### fantasy-landscape.png
 ![](wallpapers/fantasy-landscape.png)
 ### lady-dark.jpg
