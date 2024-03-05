@@ -1,6 +1,8 @@
 ## List Wallpapers
 > [!Important]
 > These wallpapers are not mine. All credits goes to those who have created / photographed these nice wallpapers
+### anime-art.png
+![](wallpapers/anime-art.png)
 ### anime-girl-abyss.png
 ![](wallpapers/anime-girl-abyss.png)
 ### anime-girl-neon.png
@@ -25,8 +27,14 @@
 ![](wallpapers/art-girl2.jpg)
 ### astronaut.jpg
 ![](wallpapers/astronaut.jpg)
+### astronaut1.jpg
+![](wallpapers/astronaut1.jpg)
 ### bonsai-plant.png
 ![](wallpapers/bonsai-plant.png)
+### car.png
+![](wallpapers/car.png)
+### car1.jpg
+![](wallpapers/car1.jpg)
 ### city-pixel.jpg
 ![](wallpapers/city-pixel.jpg)
 ### city-rain.png
@@ -55,8 +63,12 @@
 ![](wallpapers/mario2.png)
 ### minimal-squares.jpg
 ![](wallpapers/minimal-squares.jpg)
+### mountain.jpg
+![](wallpapers/mountain.jpg)
 ### night-city.png
 ![](wallpapers/night-city.png)
+### nothing.png
+![](wallpapers/nothing.png)
 ### pastel-window.png
 ![](wallpapers/pastel-window.png)
 ### patterns.jpg
