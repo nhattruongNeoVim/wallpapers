@@ -25,16 +25,16 @@
 ![](wallpapers/art-girl1.jpg)
 ### art-girl2.jpg
 ![](wallpapers/art-girl2.jpg)
-### astronaut.jpg
-![](wallpapers/astronaut.jpg)
 ### astronaut1.jpg
 ![](wallpapers/astronaut1.jpg)
+### astronaut2.jpg
+![](wallpapers/astronaut2.jpg)
 ### bonsai-plant.png
 ![](wallpapers/bonsai-plant.png)
-### car.png
-![](wallpapers/car.png)
 ### car1.jpg
 ![](wallpapers/car1.jpg)
+### car2.png
+![](wallpapers/car2.png)
 ### city-pixel.jpg
 ![](wallpapers/city-pixel.jpg)
 ### city-rain.png
