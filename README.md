@@ -77,6 +77,8 @@
 ![](wallpapers/pastel-window.png)
 ### patterns.jpg
 ![](wallpapers/patterns.jpg)
+### rose.png
+![](wallpapers/rose.png)
 ### staircase.jpg
 ![](wallpapers/staircase.jpg)
 ### sunset.jpg
