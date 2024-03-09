@@ -49,6 +49,8 @@
 ![](wallpapers/dark-nature.png)
 ### fantasy-landscape.png
 ![](wallpapers/fantasy-landscape.png)
+### girl-pink.png
+![](wallpapers/girl-pink.png)
 ### lady-dark.jpg
 ![](wallpapers/lady-dark.jpg)
 ### lady-light.png
