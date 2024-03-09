@@ -33,6 +33,8 @@
 ![](wallpapers/bonsai-plant.png)
 ### car1.jpg
 ![](wallpapers/car1.jpg)
+### car2.png
+![](wallpapers/car2.png)
 ### city-pixel.jpg
 ![](wallpapers/city-pixel.jpg)
 ### city-rain.png
