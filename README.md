@@ -3,8 +3,8 @@
 > These wallpapers are not mine. All credits goes to those who have created / photographed these nice wallpapers
 ### anime-art.png
 ![](wallpapers/anime-art.png)
-### anime-girl-abyss.png
-![](wallpapers/anime-girl-abyss.png)
+### anime-girl.png
+![](wallpapers/anime-girl.png)
 ### anime-kanji.jpg
 ![](wallpapers/anime-kanji.jpg)
 ### anime-lake.png
