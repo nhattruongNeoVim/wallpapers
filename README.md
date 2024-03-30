@@ -47,6 +47,8 @@
 ![](wallpapers/girl-cartoon.png)
 ### girl-pink.png
 ![](wallpapers/girl-pink.png)
+### kanji-girl.jpg
+![](wallpapers/kanji-girl.jpg)
 ### lady-dark.jpg
 ![](wallpapers/lady-dark.jpg)
 ### lady-light.png
