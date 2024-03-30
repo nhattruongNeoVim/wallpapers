@@ -5,8 +5,6 @@
 ![](wallpapers/anime-art.png)
 ### anime-girl.png
 ![](wallpapers/anime-girl.png)
-### anime-kanji.jpg
-![](wallpapers/anime-kanji.jpg)
 ### anime-lake.png
 ![](wallpapers/anime-lake.png)
 ### anime-lanscape.png
