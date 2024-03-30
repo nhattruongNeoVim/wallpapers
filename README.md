@@ -5,8 +5,6 @@
 ![](wallpapers/anime-art.png)
 ### anime-girl-abyss.png
 ![](wallpapers/anime-girl-abyss.png)
-### anime-girl-neon.png
-![](wallpapers/anime-girl-neon.png)
 ### anime-kanji.jpg
 ![](wallpapers/anime-kanji.jpg)
 ### anime-lake.png
