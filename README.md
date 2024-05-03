@@ -7,28 +7,38 @@
 ![](wallpapers/anime-girl.png)
 ### anime-lake.png
 ![](wallpapers/anime-lake.png)
-### anime-lanscape.png
-![](wallpapers/anime-lanscape.png)
 ### anime-night.jpg
 ![](wallpapers/anime-night.jpg)
 ### anime-room.png
 ![](wallpapers/anime-room.png)
 ### arch-chan.png
 ![](wallpapers/arch-chan.png)
-### art-girl1.jpg
-![](wallpapers/art-girl1.jpg)
-### art-girl2.jpg
-![](wallpapers/art-girl2.jpg)
-### astronaut1.jpg
-![](wallpapers/astronaut1.jpg)
-### astronaut2.jpg
-![](wallpapers/astronaut2.jpg)
+### art-1.jpg
+![](wallpapers/art-1.jpg)
+### art-2.jpg
+![](wallpapers/art-2.jpg)
+### art-3.png
+![](wallpapers/art-3.png)
+### art-4.png
+![](wallpapers/art-4.png)
+### astronaut-1.jpg
+![](wallpapers/astronaut-1.jpg)
+### astronaut-2.jpg
+![](wallpapers/astronaut-2.jpg)
 ### bonsai-plant.png
 ![](wallpapers/bonsai-plant.png)
-### car1.jpg
-![](wallpapers/car1.jpg)
-### car2.png
-![](wallpapers/car2.png)
+### car-1.jpg
+![](wallpapers/car-1.jpg)
+### car-2.png
+![](wallpapers/car-2.png)
+### car-3.png
+![](wallpapers/car-3.png)
+### car-4.jpg
+![](wallpapers/car-4.jpg)
+### car-5.jpg
+![](wallpapers/car-5.jpg)
+### car-6.jpg
+![](wallpapers/car-6.jpg)
 ### city-pixel.jpg
 ![](wallpapers/city-pixel.jpg)
 ### city-rain.png
@@ -41,8 +51,6 @@
 ![](wallpapers/cyberpunk-lofi.png)
 ### dark-nature.png
 ![](wallpapers/dark-nature.png)
-### fantasy-landscape.png
-![](wallpapers/fantasy-landscape.png)
 ### girl-cartoon.png
 ![](wallpapers/girl-cartoon.png)
 ### girl-pink.png
@@ -51,8 +59,14 @@
 ![](wallpapers/kanji-girl.jpg)
 ### lady-dark.jpg
 ![](wallpapers/lady-dark.jpg)
+### lady-grey.png
+![](wallpapers/lady-grey.png)
 ### lady-light.png
 ![](wallpapers/lady-light.png)
+### landscape-2.png
+![](wallpapers/landscape-2.png)
+### lanscape-1.png
+![](wallpapers/lanscape-1.png)
 ### lofi-cat.png
 ![](wallpapers/lofi-cat.png)
 ### lowpoly-street.png
