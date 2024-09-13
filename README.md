@@ -7,8 +7,6 @@
 ![](wallpapers/anime-art.png)
 ### anime-girl.png
 ![](wallpapers/anime-girl.png)
-### anime-lake.png
-![](wallpapers/anime-lake.png)
 ### anime-night.jpg
 ![](wallpapers/anime-night.jpg)
 ### anime-room.png
