@@ -1,8 +1,8 @@
 ## List Wallpapers
 > [!Important]
 > These wallpapers are not mine. All credits goes to those who have created / photographed these nice wallpapers
-### a.jpg
-![](wallpapers/a.jpg)
+### Four-heavenly-kings.jpg
+![](wallpapers/Four-heavenly-kings.jpg)
 ### anime-art.png
 ![](wallpapers/anime-art.png)
 ### anime-girl.png
