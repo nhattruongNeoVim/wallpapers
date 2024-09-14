@@ -1,99 +1,99 @@
 ## List Wallpapers
 > [!Important]
 > These wallpapers are not mine. All credits goes to those who have created / photographed these nice wallpapers
-### Four-heavenly-kings.jpg
+### Four-heavenly-kings
 ![](wallpapers/Four-heavenly-kings.jpg)
-### anime-art.png
+### anime-art
 ![](wallpapers/anime-art.png)
-### anime-girl.png
+### anime-girl
 ![](wallpapers/anime-girl.png)
-### anime-night.jpg
+### anime-night
 ![](wallpapers/anime-night.jpg)
-### anime-room.png
+### anime-room
 ![](wallpapers/anime-room.png)
-### arch-chan.png
+### arch-chan
 ![](wallpapers/arch-chan.png)
-### art-1.jpg
+### art-1
 ![](wallpapers/art-1.jpg)
-### art-2.jpg
+### art-2
 ![](wallpapers/art-2.jpg)
-### art-3.png
+### art-3
 ![](wallpapers/art-3.png)
-### art-4.png
+### art-4
 ![](wallpapers/art-4.png)
-### astronaut-1.jpg
+### astronaut-1
 ![](wallpapers/astronaut-1.jpg)
-### astronaut-2.jpg
+### astronaut-2
 ![](wallpapers/astronaut-2.jpg)
-### bonsai-plant.png
+### bonsai-plant
 ![](wallpapers/bonsai-plant.png)
-### car-1.jpg
+### car-1
 ![](wallpapers/car-1.jpg)
-### car-2.png
+### car-2
 ![](wallpapers/car-2.png)
-### car-3.png
+### car-3
 ![](wallpapers/car-3.png)
-### car-4.jpg
+### car-4
 ![](wallpapers/car-4.jpg)
-### car-5.jpg
+### car-5
 ![](wallpapers/car-5.jpg)
-### car-6.jpg
+### car-6
 ![](wallpapers/car-6.jpg)
-### city-pixel.jpg
+### city-pixel
 ![](wallpapers/city-pixel.jpg)
-### city-rain.png
+### city-rain
 ![](wallpapers/city-rain.png)
-### courtside-sunset.png
+### courtside-sunset
 ![](wallpapers/courtside-sunset.png)
-### cute-cat.png
+### cute-cat
 ![](wallpapers/cute-cat.png)
-### cyberpunk-lofi.png
+### cyberpunk-lofi
 ![](wallpapers/cyberpunk-lofi.png)
-### dark-nature.png
+### dark-nature
 ![](wallpapers/dark-nature.png)
-### girl-cartoon.png
+### girl-cartoon
 ![](wallpapers/girl-cartoon.png)
-### girl-pink.png
+### girl-pink
 ![](wallpapers/girl-pink.png)
-### kanji-girl.jpg
+### kanji-girl
 ![](wallpapers/kanji-girl.jpg)
-### lady-dark.jpg
+### lady-dark
 ![](wallpapers/lady-dark.jpg)
-### lady-grey.png
+### lady-grey
 ![](wallpapers/lady-grey.png)
-### lady-light.png
+### lady-light
 ![](wallpapers/lady-light.png)
-### landscape.png
+### landscape
 ![](wallpapers/landscape.png)
-### lofi-cat.png
+### lofi-cat
 ![](wallpapers/lofi-cat.png)
-### lowpoly-street.png
+### lowpoly-street
 ![](wallpapers/lowpoly-street.png)
-### mario-1.jpg
+### mario-1
 ![](wallpapers/mario-1.jpg)
-### mario-2.png
+### mario-2
 ![](wallpapers/mario-2.png)
-### minimal-squares.jpg
+### minimal-squares
 ![](wallpapers/minimal-squares.jpg)
-### mountain.jpg
+### mountain
 ![](wallpapers/mountain.jpg)
-### night-city.png
+### night-city
 ![](wallpapers/night-city.png)
-### nothing.png
+### nothing
 ![](wallpapers/nothing.png)
-### pastel-window.png
+### pastel-window
 ![](wallpapers/pastel-window.png)
-### patterns.jpg
+### patterns
 ![](wallpapers/patterns.jpg)
-### rose.png
+### rose
 ![](wallpapers/rose.png)
-### staircase.jpg
+### staircase
 ![](wallpapers/staircase.jpg)
-### sunset.jpg
+### sunset
 ![](wallpapers/sunset.jpg)
-### techno-geek.png
+### techno-geek
 ![](wallpapers/techno-geek.png)
-### tokyo-pink.png
+### tokyo-pink
 ![](wallpapers/tokyo-pink.png)
 > **Congratulations!** at this point you have all the wallpapers that I've collected
 > 
