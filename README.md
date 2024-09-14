@@ -63,18 +63,16 @@
 ![](wallpapers/lady-grey.png)
 ### lady-light.png
 ![](wallpapers/lady-light.png)
-### landscape-2.png
-![](wallpapers/landscape-2.png)
-### lanscape-1.png
-![](wallpapers/lanscape-1.png)
+### landscape.png
+![](wallpapers/landscape.png)
 ### lofi-cat.png
 ![](wallpapers/lofi-cat.png)
 ### lowpoly-street.png
 ![](wallpapers/lowpoly-street.png)
-### mario1.jpg
-![](wallpapers/mario1.jpg)
-### mario2.png
-![](wallpapers/mario2.png)
+### mario-1.jpg
+![](wallpapers/mario-1.jpg)
+### mario-2.png
+![](wallpapers/mario-2.png)
 ### minimal-squares.jpg
 ![](wallpapers/minimal-squares.jpg)
 ### mountain.jpg
