@@ -97,6 +97,6 @@
 ![](wallpapers/techno-geek.png)
 ### tokyo-pink.png
 ![](wallpapers/tokyo-pink.png)
-> **Congratulations!** at this poit you have all the wallpapers that I've collected
+> **Congratulations!** at this point you have all the wallpapers that I've collected
 > 
 > # (￣ y▽ ￣)╭ Ohohoho.....
