@@ -22,7 +22,7 @@ jobs:
           echo "## List Wallpapers" > README.md
           echo "> [!Important]" >> README.md
           echo "> These wallpapers are not mine. All credits goes to those who have created / photographed these nice wallpapers" >> README.md
-          for file in $(ls wallpapers/*.{jpg,png}); do
+          for file in $(ls wallpapers/*.{jpg,png} | sort); do
             filename=$(basename "$file")
             echo "### $filename" >> README.md
             echo "![]($file)" >> README.md
